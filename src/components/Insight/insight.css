@@ -1,0 +1,57 @@
+.insightHeading{
+    font-size: 44px;
+    line-height: 54px;
+    color: #eceded;
+    font-family: "Inter",sans-serif;
+    font-weight: 800;
+    clear: both;
+}
+
+.insightDesc {
+    color: #9ca9b3;
+    font-size: 21px;
+    line-height: 31px;
+    letter-spacing: -.1px;
+    padding-right: 37px;
+}
+
+img.insightImage {
+    width: 100%;
+}
+
+.insDesc {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -.1px;
+    color: #9ca9b3;
+}
+
+h3.mt-0.mb-12.subHeading {
+    clear: both;
+    color: #eceded;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: -.1px;
+}
+
+.all_text{
+    text-align: initial;
+}
+
+.lightwork {
+    color: #5658dd;
+}
+
+.split-item {
+    margin-top: 80px;
+}
+
+.workhr {
+    margin: 80px!important;
+    color: whitesmoke!important;
+}
+
+.row.splitItems {
+    margin-top: 30px;
+    padding-top: 30px;
+}

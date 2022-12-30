@@ -1,0 +1,47 @@
+.build_Heading {
+    font-size: 44px;
+    line-height: 54px;
+    color: #eceded;
+    font-family: "Inter",sans-serif;
+    font-weight: 800;
+    clear: both;
+}
+
+.build_desc {
+    text-align: center;
+    color: #9ca9b3;
+    font-size: 21px;
+    line-height: 30px;
+    letter-spacing: -.1px;
+}
+
+
+.features-tiles-item-image.mb-16 {
+    display: inline-flex;
+    border-radius: 50%;
+    background-color: #5658dd;
+}
+
+.container-xs {
+    padding-top: 50px;
+}
+
+h4.mt-0.mb-8 {
+    clear: both;
+    color: #eceded;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: -.1px;
+}
+
+p.text-sm {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -.1px;
+    color: #9ca9b3;
+}
+
+
+.tiles-item-inner {
+    padding: 32px;
+}

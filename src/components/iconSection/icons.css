@@ -1,0 +1,32 @@
+.inner_footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul.list-reset {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+.footer-copyright {
+    color: #9ca9b3;
+    letter-spacing: -0.1px;
+}
+.socialIcons {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.Icons {
+    color: #6163ff;
+}
+a.Iconscolor {
+    color: #9ca9b3;
+}

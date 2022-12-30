@@ -1,0 +1,111 @@
+.row.hero-section {
+    margin-top: 80px;
+}
+
+.hero_heading {
+    font-size: 52px;
+    line-height: 41px;
+    font-family: "Inter",sans-serif;
+    font-weight: 800;
+    clear: both;
+    color: #eceded;
+    margin-bottom: 32px;
+}
+
+span.text-color-primary {
+    color: #5658dd;
+}
+
+p.m-0.mb-32.reveal-from-bottom.is-revealed {
+    font-family: "Inter",sans-serif;
+    font-weight: 400;
+    margin-bottom: 32px;
+    color: #9ca9b3;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -.1px;
+    margin-bottom: 32px !important;
+}
+
+.button-group {
+ 
+    margin-right: -8px;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+
+
+
+.gthub{
+    color: #eceded;
+    background-color: #25282c;
+    /* margin-left: 32px; */
+    padding: 11px 27px;
+
+    display: inline-flex;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: inherit;
+    white-space: nowrap;
+   
+}
+
+.gtstart {
+    margin-right: 20px;
+    text-decoration: none;
+    padding: 11px 31px;
+    color: #eceded;
+    background-color: #6163ff;
+    display: inline-flex;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    cursor: pointer;
+    justify-content: center;
+    
+    letter-spacing: inherit;
+    white-space: nowrap;
+   
+}
+
+.video_section {
+    
+    margin-top: 64px;
+}
+
+.herovideo{
+    width: 100%;
+}
+
+.hero-inner.section-inner.col-md-8 {
+    margin-bottom: 40px;
+}
+
+.row.vid_sec {
+    margin-top: 30px;
+    padding-top: 30px;
+}
+/* 
+.modalvideo.modal-body {
+    position: absolute;
+    right: 165px;
+    top: 71px;
+    width: 100%;
+} */
+
+
+.modal-content {
+    
+  position: fixed;
+    background-color: unset !important;
+    margin-left: -200px;
+    border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+    
+}

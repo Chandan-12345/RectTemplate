@@ -1,0 +1,65 @@
+.Testheading {
+    font-size: 44px;
+    line-height: 54px;
+    color: #eceded;
+    font-family: "Inter",sans-serif;
+    font-weight: 800;
+    clear: both;
+}
+
+.testDesc {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -.1px;
+    color: #9ca9b3;
+}
+
+.testDescription{
+    color: #9ca9b3;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -.1px;
+    text-align: initial;
+}
+
+.testImage {
+    text-align: initial;
+}
+
+.col-md-4.testcontent {
+    background-color: #25282c;
+}
+
+.bkcolor {
+    background-color: #25282c;
+}
+
+span.testimonial-item-name.text-color-high {
+    color: #eceded;
+}
+
+.testhr {
+    margin: 80px;
+    color: whitesmoke;
+}
+
+.testimonial-item-footer.text-xs.mt-32.mb-0.has-top-divider {
+    text-align: initial;
+}
+
+a.appname {
+    color: #1cb68b;
+}
+
+.inner_footer {
+    padding-bottom: 20px;
+}
+
+.apphr {
+    margin: 44px 0 30px 0;
+    color: whitesmoke;
+}
+
+.testCont {
+    margin-bottom: 30px;
+}
